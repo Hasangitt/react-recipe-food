@@ -1,9 +1,12 @@
+import Cook from "./Cook";
 
-const Cooking = () => {
+const Cooking = ({cookings}) => {
     return (
-        <div className="bg-gray-400 w-1/3 rounded-md h-[600px]">
-            <h1>cooking site</h1>
-
+        <div className="border rounded-md w-1/3 rounded-md h-auto">
+            <h1 className="text-center mt-5 text-2xl font-semibold">Want to cook:{cookings.length} </h1>
+            {
+                cookings.map(cook => <Cook key={cook.id} cook={cook}></Cook>)
+            }
         </div>
     );
 };
