@@ -1,0 +1,70 @@
+[
+    {
+        "recipe_image": "https://i.ibb.co.com/XSG1sby/i193156-fluffy-pancakes.jpg",
+        "recipe_id": "1",
+        "recipe_name": "Fluffy Pancakes",
+        "short_description": "Light and fluffy pancakes topped with maple syrup and fresh berries.",
+        "ingredients": [
+        "200 g all-purpose flour",
+        "300 ml milk",
+        "2 large eggs",
+        "1 tbsp sugar",
+        "1 tsp baking powder",
+        "Pinch of salt",
+        "30 g melted butter"
+        ],
+        "preparing_time": "20 min",
+        "calories": "280 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/ZgHcVCf/th-id-OSK.jpg",
+        "recipe_id": "2",
+        "recipe_name": "Spaghetti Bolognese",
+        "short_description": "Classic Italian pasta with rich, meaty tomato sauce.",
+        "ingredients": [
+        "400 g spaghetti",
+        "500 g ground beef",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "400 g canned tomatoes",
+        "2 tbsp olive oil",
+        "Salt and pepper to taste"
+        ],
+        "preparing_time": "35 min",
+        "calories": "450 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/xG5FpP0/R.jpg",
+        "recipe_id": "3",
+        "recipe_name": "Vegan Quinoa Salad",
+        "short_description": "A healthy, protein-packed salad with quinoa, chickpeas, and fresh vegetables.",
+        "ingredients": [
+        "150 g quinoa",
+        "200 g chickpeas",
+        "1 cucumber, diced",
+        "1 red bell pepper, chopped",
+        "100 g cherry tomatoes, halved",
+        "1 avocado, sliced",
+        "Lemon vinaigrette"
+        ],
+        "preparing_time": "25 min",
+        "calories": "320 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/w7q4NxW/OIP.jpg",
+        "recipe_id": "4",
+        "recipe_name": "Grilled Lemon Herb Chicken",
+        "short_description": "Tender, juicy chicken breasts marinated in lemon and herbs, perfect for grilling.",
+        "ingredients": [
+        "500 g chicken breast",
+        "3 tbsp olive oil",
+        "Juice of 2 lemons",
+        "2 garlic cloves, minced",
+        "1 onion, chopped",
+        "1 tbsp chopped fresh rosemary",
+        "Salt and pepper to taste"
+        ],
+        "preparing_time": "35 min",
+        "calories": "380 calories"
+    }
+]
